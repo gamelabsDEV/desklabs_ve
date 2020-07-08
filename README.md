@@ -6,4 +6,4 @@ This is the source code for it. Available for download by making a ZIP file.
 # Download DVE 
 Download *Desklabs Visuals Engine* by checking here:
 
-<a href="#" class="button big">Download</a>
+Press here to [go to download page](https://gamelabssoftware.itch.io/visuals-engine)
